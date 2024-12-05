@@ -36,13 +36,13 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+     "gh-pages": "^6.2.0"
   },
   "homepage": {
-    "https://github.com/BIBintang/sijajan"
+     "https://github.com/BIBintang/sijajan"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+     "predeploy": "npm run build",
+     "deploy": "gh-pages -d build"
   }
 }
